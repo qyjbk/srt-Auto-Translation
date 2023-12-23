@@ -1,0 +1,12 @@
+1
+00:00:51,452 --> 00:00:55,445
+Let's build a second example
+of an audio visualizer.
+
+2
+00:00:56,940 --> 00:01:00,310
+We won't need those 20 lines of code anymore.
+
+3
+00:01:00,310 --> 00:01:03,520
+4 people will be able to use it.
