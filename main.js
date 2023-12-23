@@ -7,8 +7,9 @@ const CryptoJS = require('crypto-js');
 const directoryPath = './srt';
 
 // 有道api需要的常量
-const appKey = '396e158b199c26ef';
-const key = 'pZYg8uT5jMaJqEO3WRGsN8w5aHiXTTVe';//注意：暴露appSecret，有被盗用造成损失的风险
+// 此处需要将appKey和Key改为自己的，否则无法使用
+const appKey = '1234567890';
+const key = '123';//注意：暴露appSecret，有被盗用造成损失的风险
 const from = 'en';
 const to = 'zh-CHS';
 function truncate(q) {
